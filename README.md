@@ -1,7 +1,7 @@
 
-Project: Disaster Response Pipeline 
+## Project: Disaster Response Pipeline 
 
-## Table of Content
+###Table of Content
   * [Overview](#overview)
   * [Objective](#objective) 
   * [Motivation](#motivation)
